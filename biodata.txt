@@ -6,3 +6,4 @@ Hobby		: Membaca
 Alamat		: Jl. Gatot Kaca 
 Umur		: 17 Tahun
 Asal Sekolah	: SMK Negeri 1 Ponorogo
+Tempat Lahir 	: Ponorogo
